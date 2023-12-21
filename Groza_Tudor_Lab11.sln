@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{C5654538-846C-4610-87F9-411F95E368B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Groza_Tudor_Lab11", "Groza_Tudor_Lab11\Groza_Tudor_Lab11.csproj", "{B3C6CD71-53F6-4A9A-A656-9AB6885D5A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5654538-846C-4610-87F9-411F95E368B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5654538-846C-4610-87F9-411F95E368B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5654538-846C-4610-87F9-411F95E368B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5654538-846C-4610-87F9-411F95E368B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C6CD71-53F6-4A9A-A656-9AB6885D5A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C6CD71-53F6-4A9A-A656-9AB6885D5A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C6CD71-53F6-4A9A-A656-9AB6885D5A83}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B3C6CD71-53F6-4A9A-A656-9AB6885D5A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C6CD71-53F6-4A9A-A656-9AB6885D5A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C6CD71-53F6-4A9A-A656-9AB6885D5A83}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {709E326B-258B-42C9-9650-C00B3EA7F334}
+	EndGlobalSection
+EndGlobal
